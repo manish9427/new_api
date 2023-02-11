@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the Most Followed Cricketer on Instagram?",
+      "no_of_answers": 0,
+      "last_followed": "5hr",
+      "followed_by": 9,
+      "answers": []
+    },
+    {
+      "id": 2,
+      "question": "How has the coronavirus affected you?",
+      "no_of_answers": 0,
+      "last_followed": "15m",
+      "followed_by": 2,
+      "answers": []
+    },
+    {
+      "id": 3,
+      "question": "How do top students study?",
+      "no_of_answers": 0,
+      "last_followed": " Oct 11",
+      "followed_by": 52,
+      "answers": []
+    },
+    {
+      "id": 4,
+      "question": "How hard has puberty hit you?",
+      "no_of_answers": 0,
+      "last_followed": "Dec 31",
+      "followed_by": 1,
+      "answers": []
+    },
+    {
+      "id": 5,
+      "question": "How lonely are you?",
+      "no_of_answers": 0,
+      "last_followed": "2h",
+      "followed_by": 0,
+      "answers": []
+    },
+    {
+      "id": 6,
+      "question": "How do you know if someone is mature or not?",
+      "no_of_answers": 0,
+      "last_followed": "1h",
+      "followed_by": 1,
+      "answers": []
+    },
+    {
+      "id": 7,
+      "question": "How can lose weight quickly?",
+      "no_of_answers": 0,
+      "last_followed": "5h",
+      "followed_by": 1,
+      "answers": []
+    },
+    {
+      "id": 8,
+      "question": "How do stay motivated?",
+      "no_of_answers": 0,
+      "last_followed": "5h",
+      "followed_by": 1,
+      "answers": []
+    },
+    {
+      "id": 9,
+      "question": "What is the best way to stay fit?",
+      "no_of_answers": 0,
+      "last_followed": "2y",
+      "followed_by": 1,
+      "answers": []
+    },
+    {
+      "id": 10,
+      "question": "How can I use Quora to make money?",
+      "no_of_answers": 0,
+      "last_followed": "2h",
+      "followed_by": 1,
+      "answers": []
+    }
+  ]
+}
